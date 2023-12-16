@@ -1,0 +1,13 @@
+.find-more-jobs{
+    margin: 100px;
+}
+.find-more-jobs button{
+    height: 50px;
+    width: 150px;
+    border-radius: 50px;
+    color: blue;
+    border-color: blue;
+}
+.sec-4-img img{
+   height: 500px;
+}

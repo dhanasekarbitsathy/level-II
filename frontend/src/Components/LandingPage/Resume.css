@@ -1,0 +1,78 @@
+.resume-container{
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 250px;
+    height: 300px;
+}
+.company{
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+    height: 1px;
+    margin-top: 12px;
+    margin-left: 25px;
+}
+.company img{
+    border-radius: 100px;
+    width: 25px;
+    height: 25px;
+    position: absolute;
+}
+.company-text h5{
+    font-size: 12px;
+    position: relative;
+    bottom: 25px;
+    right: 110px;
+}
+.intern p{
+    font-size: 8px;
+    font-weight: 700;
+    position: relative;
+    bottom: 40px;
+    right: 120px;
+}
+.jobheading{
+    width: 100%;
+    
+}
+.jobheading h1{
+    font-size: 25px;
+    position: relative;
+    bottom: 70px;
+}
+.jobheading h6{
+    position: relative;
+    bottom: 90px;
+
+    right: 90px;
+}
+.job-des{
+    position: relative;
+    width: 100%;
+    height: auto;
+    bottom: 98px;
+    font-size: 13px;
+    height:25px;
+}
+.job-inc{
+    padding-bottom: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    bottom: 20px;
+}
+.job-inc button{
+    border-radius: 8px;
+    height: 30px;
+    color: blue;
+    background-color: white;
+    border:none;
+    outline: none;
+}
+.job-inc button:hover{
+    cursor: pointer;
+    color: aqua;
+}

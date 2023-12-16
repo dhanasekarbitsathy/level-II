@@ -1,0 +1,33 @@
+.poster-container{
+    width: 100vw;
+    height: 500px;
+    background: white;
+}
+.poster-container2{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 80%;
+    padding: 20px;
+
+}
+.job-img img{
+    padding-bottom: 180px;
+    background: white;
+}
+.poster-text-container{
+   
+}
+.get-img img{
+    height: 140px;
+    width: 500px;
+    padding-left: 200px;
+    position: relative;
+}
+.poster-text{
+    position: relative;
+    top: 80px;
+    font-size: 22px;
+    font-weight: 700;
+    left: 40px;
+}
